@@ -1,0 +1,10 @@
+name: gif
+channels:
+  - defaults
+dependencies:
+  - imageio
+  - pip
+  - python=3.12
+  - tqdm
+  - halo
+prefix: /Users/dylanrandle/.miniconda3/envs/gif
